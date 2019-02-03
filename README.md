@@ -8,3 +8,6 @@ Mongoose
 Express
 Axios
 Cheerio
+
+App Deployed:
+https://blooming-beach-15802.herokuapp.com/
